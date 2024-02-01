@@ -27,7 +27,6 @@ An application that simulates a social network, with compliments, comments and d
 
 Some of the technologies used in this project are:
 - [TypeScript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)
 {...}
